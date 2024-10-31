@@ -20,7 +20,7 @@ nav a i{
     color: white;
 }
 header{
-    background-image: url(/backgroundAssignment3.jpg);
+    background-image: url(./backgroundAssignment3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
